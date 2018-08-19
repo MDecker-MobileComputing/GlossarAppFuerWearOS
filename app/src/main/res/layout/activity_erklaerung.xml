@@ -9,10 +9,9 @@
     tools:context=".MainActivity"
     tools:deviceIds="wear">
 
-    <FrameLayout
+    <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:padding="@dimen/inner_frame_layout_padding"
         app:boxedEdges="all">
 
         <LinearLayout
@@ -36,5 +35,5 @@
 
         </LinearLayout>
 
-    </FrameLayout>
+    </ScrollView>
 </android.support.wear.widget.BoxInsetLayout>
