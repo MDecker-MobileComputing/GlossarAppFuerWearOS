@@ -8,9 +8,7 @@ in the area of Android programming; supports only German language.
 ----
 ## Screenshots
 
-![Screenshot 1](screenshot_1.png)
-
-![Screenshot 2](screenshot_2.png)
+![Screenshot 1](screenshot_1.png)   ![Screenshot 2](screenshot_2.png)
 
 Screenshots were taken from emulator.
 
